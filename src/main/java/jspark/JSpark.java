@@ -14,7 +14,7 @@ import java.util.List;
  */
 public class JSpark {
 
-	private static final List<Character> ticks = Arrays.asList('▁', '▂', '▃', '▄', '▅', '▆', '▇', '█');
+	private static final List<Character> ticks = Arrays.asList('\u2581','\u2582', '\u2583', '\u2584', '\u2585', '\u2586', '\u2587','\u2588');
 
 	/**
 	 * Renders an ascii graph.
